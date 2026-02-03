@@ -11,3 +11,8 @@ Prompt2:
 vc tem acesso ao mcp do n8n? tudo instalado e configurado?
 instale o servidor MCP do n8n: https://github.com/czlonkowski/n8n-mcp
 instale as Skills do n8n: https://github.com/czlonkowski/n8n-skills
+
+Prompt3:
+vamos configurar o mcp_config.json
+C:\Users\admin\.gemini\antigravity\mcp_config.json
+pra eu colocar minha api key e conectar corretamente no n8n
