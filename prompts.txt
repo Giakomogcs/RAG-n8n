@@ -1,0 +1,13 @@
+Prompt1:
+
+Preciso que você me ajude a criar o arquivo Antigravity.md neste meu projeto. Basicamente você vai me ajudar a criar fluxos de trabalho no n8n. Posteriormente, vou te dar acesso a algumas ferramentas diferentes:
+O servidor MCP do n8n: https://github.com/czlonkowski/n8n-mcp
+Skills do n8n: https://github.com/czlonkowski/n8n-skills 
+Você usará isso em combinação com minha solicitação para ajudar a criar fluxos de trabalho de alta qualidade na minha instância do n8n.
+
+
+Prompt2:
+
+vc tem acesso ao mcp do n8n? tudo instalado e configurado?
+instale o servidor MCP do n8n: https://github.com/czlonkowski/n8n-mcp
+instale as Skills do n8n: https://github.com/czlonkowski/n8n-skills

@@ -1,0 +1,7 @@
+node_modules
+*.log
+.DS_Store
+stderr.txt
+stdout.txt
+.env
+.gemini
